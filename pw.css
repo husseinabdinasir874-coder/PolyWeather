@@ -29,16 +29,13 @@ button {
    height: 80px;
    color: black;
    background-color: aqua;
-   font-size: 50px;
+   font-size: 30px;
    transition: 300ms
 }
 button:hover {
     opacity: 80%;
     background-color: aquamarine; 
-    padding: 15px;   
-}
-#him::before {
-    content: "the greatest of all time ";
+    padding: 25px;   
 }
 @keyframes pointdown {
     0%{
